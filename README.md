@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @TRSV-egor
-- 👀 I’m interested in Android Applications
-- 🌱 I’m currently learning Java and Flutter
-- 💞️ I’m looking to collaborate with mentors
-- 📫 How to reach me trsv.egor@gmail.com
+- 👋 Hi, I’m @TRSV-egor from Russia.
+- 👨‍💻 I worked as a system administrator in an IT company in the city of Smolensk for 5 years.. 
+- 👨‍🔬 Then I decided to try myself in 3D-modeling of teeth in a dental laboratory.
+- 👀 Now, I’m interested in developing Android applications.
+- 🌱 I’m currently learning Java and Flutter.
+- 💞️ I would like to improve my programming skills to create a useful apps.
+- 📫 My contact: trsv.egor@gmail.com
